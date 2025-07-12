@@ -1,0 +1,16 @@
+cities:
+  - 北京
+  - 上海
+  - 广州
+  - 深圳
+
+encouragements:
+  default: "示例 default"
+  rain: "示例 rain"
+  hot: "示例 hot"
+
+api_keys:
+  pushplus: "YOUR_PUSHPLUS_TOKEN"
+  heweather:
+    key: "YOUR_HEWEATHER_API_KEY"
+    host: "YOUR_HEWEATHER_API_HOST"
